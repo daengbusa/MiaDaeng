@@ -12,6 +12,7 @@
 * ======================================================= */
 html {
   scroll-behavior: smooth;
+  background-color:#ffffcc;
 }
 body {
   font-family: "Work Sans", Arial, sans-serif;
