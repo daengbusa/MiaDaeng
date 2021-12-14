@@ -19,7 +19,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #828282;
-  background: #fff;
+  background: #ffffe6;
 }
 
 #page {
@@ -943,8 +943,8 @@ form label {
 .simply-countdown > .simply-section {
   /* coutndown blocks */
   display: inline-block;
-  width: 100px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
   background: rgba(102, 255, 153, 0.8);
   margin: 0 4px;
   -webkit-border-radius: 50%;
@@ -970,8 +970,8 @@ form label {
   /* countdown block inner div */
   display: table-cell;
   vertical-align: middle;
-  height: 100px;
-  width: 100px;
+  height: 70px;
+  width: 70px;
 }
 
 .simply-countdown > .simply-section .simply-amount,
@@ -982,7 +982,7 @@ form label {
 }
 
 .simply-countdown > .simply-section .simply-amount {
-  font-size: 30px;
+  font-size: 15px;
   /* amounts */
 }
 
