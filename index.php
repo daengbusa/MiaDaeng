@@ -139,7 +139,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<h2>Assalamualaikum</h2>
-					<h4>February 20th, 2022. Tajur, Kota Bogor</h4>
+					<h4>20 Februari 2022, Tajur, Kota Bogor</h4>
 					<!-- <p style="font-size: 12px">We invited you to celebrate our wedding</p> -->
 					<p style="font-size: 12px;">Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan. Ya Allah semoga ridho-Mu tercurah mengiringi pernikahan putra-putri kami:</p>
 				</div>
