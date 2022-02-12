@@ -1996,7 +1996,7 @@ form label {
   97% {bottom: 200%;}
   100% {bottom: 0%;}
 }
-.vmove {animation: slidev linear 30000ms infinite;}
+.vmove {animation: slidev linear 15s infinite;}
 .vmove:hover {animation-play-state: paused;}
 
 
